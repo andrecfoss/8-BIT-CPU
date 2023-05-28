@@ -3,4 +3,4 @@
 Developed on ISE Design Suite 14.7, Xilinx  <br />
 Language: <b>VHDL</b>                       <br />
 
-![CPU](https://github.com/andrecfoss/8-BIT-CPU/assets/134842813/a1d0ef53-173c-485e-ad28-68ad5568a9bf)
+![8-BIT CPU](https://github.com/andrecfoss/8-BIT-CPU/assets/134842813/cb788d41-8180-4e8d-8739-1aad6eee82ed)
